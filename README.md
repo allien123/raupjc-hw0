@@ -7,3 +7,6 @@ datoteke i pokretanja .exe datoteke aplikacija se ruši u startu sa System.IO.Fi
 
 # Pitanje 2:
 Konzolna aplikacija je koristila staru verziju class librarya zato jer je u direktoriju ostala stara .dll datoteka (nova .dll datoteka bi se pojavila tek prevođenjem class library projekta).
+
+# Pitanje 3:
+Pri buildanju se automatski ponovno instalirao NodaTime, a packages direktorij opet sadrži mapu NodaTime.
